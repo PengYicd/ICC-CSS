@@ -24,7 +24,7 @@ Then run "CM_CNN_train.py" with the change
 
 ### Test
 
-Please use “CM_CNN_test.py” to train the model. 
+Please use “CM_CNN_test.py” to test the model. 
 
 ### BibTex
 
