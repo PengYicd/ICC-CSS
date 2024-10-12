@@ -2,7 +2,7 @@
 
 **Peng Yi, Yang Cao, Xin Kang, and Ying-Chang Liang**
 
-This is the implementation of the paper named [[2311.04791\] Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing (arxiv.org)](https://arxiv.org/abs/2311.04791)
+This is the implementation of the paper named [Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing](https://ieeexplore.ieee.org/document/10693603) published in  IEEE Transactions on Communications.
 
 ### Configure
 
@@ -29,13 +29,15 @@ Please use “CM_CNN_test.py” to test the model.
 ### BibTex
 
 ```latex
-@article{yi2023integrated,
-  title={Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing},
-  author={Peng Yi and
-          Yang Cao and
-          Xin Kang and
-          Y.-C. Liang},
-  journal={arXiv preprint arXiv:2311.04791},
-  year={2023}
-}
+@ARTICLE{10693603,
+  author={Yi, Peng and Cao, Yang and Kang, Xin and Liang, Ying-Chang},
+  journal={IEEE Transactions on Communications}, 
+  title={Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Sensors;Semantics;Wireless sensor networks;Scalability;Wireless networks;Internet of Things;Feature extraction;Cooperative spectrum sensing;distributed semantic communication;over-the-air computation},
+  doi={10.1109/TCOMM.2024.3468215}}
+
 ```
